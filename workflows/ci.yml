@@ -1,0 +1,14 @@
+
+name: XDV CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Placeholder CI Step
+        run: echo "XDV CI pipeline placeholder"

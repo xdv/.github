@@ -1,5 +1,5 @@
 
-# XDV — Cross-Domain Virtualizer
+# XDV — X-Domain Virtualizer
 
 ## The Operating System for K / Q / Φ Hybrid Compute
 
